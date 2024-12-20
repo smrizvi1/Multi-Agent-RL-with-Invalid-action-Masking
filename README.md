@@ -80,13 +80,12 @@ implementation-folder/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/uav-noma-implementations.git
-cd uav-noma-implementations
+git clone https://github.com/smrizvi1/Multi-Agent-RL-with-Invalid-action-Masking.git
 ```
 
 2. Install required packages:
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 ## Key Features
