@@ -1,7 +1,6 @@
 # Multi-Agent-RL-with-Invalid-action-Masking
 
 
-# UAV-NOMA DQN Implementations
 
 This repository contains three different implementations of UAV-enabled NOMA (Non-Orthogonal Multiple Access) communications using Shared Deep Q-Networks, each with a different approach to action masking:
 
