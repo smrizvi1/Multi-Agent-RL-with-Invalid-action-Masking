@@ -6,6 +6,17 @@ This repository contains three different implementations of UAV-enabled NOMA (No
 
 ## Citations
 
+This paper has been accepted in IEEE Transactions on Machine Learning in Communicaitons and Networking. Please use the following citation while the paper: 
+
+@article{rizvi2023multi,
+  title={Multi-agent reinforcement learning with action masking for uav-enabled mobile communications},
+  author={Rizvi, Danish and Boyle, David},
+  journal={arXiv preprint arXiv:2303.16737},
+  year={2023}
+}
+
+This block would be updated with citation for the published version in due course.
+
 ## Implementations
 
 ### 1. Basic Implementation
