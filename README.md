@@ -4,6 +4,8 @@
 
 This repository contains three different implementations of UAV-enabled NOMA (Non-Orthogonal Multiple Access) communications using Shared Deep Q-Networks, each with a different approach to action masking:
 
+## Citations
+
 ## Implementations
 
 ### 1. Basic Implementation
@@ -118,7 +120,5 @@ Each implementation generates:
 Results are saved as:
 - Data: `.npy` files
 - Plots: `.png` files
-
-## Citations
 
 
